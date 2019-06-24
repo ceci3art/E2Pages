@@ -1,0 +1,16 @@
+{
+  "peliculas": [
+    {
+      "titulo":"El pianista",
+      "director":"Roman Polanski",
+      "anio":"2002",
+      "sipnopsis":"Un judío polaco, pianista profesional, lucha por la supervivencia en Varsovia frente a la invasión nazi. Después de, gracias a unos amigos, haber evitado la deportació, el pianista debe vivir oculto y constantemente expuesto al peligro."
+    },
+    {
+      "titulo":"Pulp Fiction",
+      "director":"Quentin Tarantino",
+      "anio":"1994",
+      "sipnopsis":"La vida de un boxeador, dos sicarios, la esposa de un gánster y dos bandidos se entrelaza en una historia de violencia y redención."
+    }
+  ]
+}
