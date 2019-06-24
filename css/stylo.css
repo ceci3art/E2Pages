@@ -1,0 +1,23 @@
+
+body, html {
+  background-image: url("img/fondo.jpg");
+}
+
+#ver {
+  background-color: rgb(206, 205, 204);
+  border: none;
+  color: black;
+  border: 2px solid #4e4e4e;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+
+}
+  #ver1:hover {
+    background-color: #ffc401;
+    }
